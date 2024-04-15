@@ -18,7 +18,8 @@ Set the needed privilege "Files.ReadWrite.All" for this App.
 
 
 Set a Secret
-![image](https://github.com/devsergioraar/UploadOneDrive/assets/30870567/4e8d3aa2-9e2d-4e7f-8611-ff283a9fa35b)
+![image](https://github.com/devsergioraar/UploadOneDrive/assets/30870567/e0257a04-64fc-43ab-9662-636f4be51017)
+
 
 Set this settings
 ![image](https://github.com/devsergioraar/UploadOneDrive/assets/30870567/c386b64e-23de-4acd-88d3-e627bee5a4c1)
