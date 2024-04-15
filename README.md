@@ -26,3 +26,7 @@ Set this settings
 
 ![image](https://github.com/devsergioraar/UploadOneDrive/assets/30870567/f31c3a19-a22a-4d2e-a79b-97cde2648283)
 
+Set yourself as Owner
+![image](https://github.com/devsergioraar/UploadOneDrive/assets/30870567/6e849955-aa99-4ab7-ab16-084afa7f4aec)
+
+
