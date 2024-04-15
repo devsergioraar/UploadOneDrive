@@ -1,6 +1,6 @@
 # UploadOneDrive
 
-#Before running!
+# Before running!
 Install this Package:
 pip install msal
 
@@ -31,5 +31,19 @@ Set yourself as Owner
 
 Remember to set the app as Daemon Type:
 ![image](https://github.com/devsergioraar/UploadOneDrive/assets/30870567/48129825-1ea0-4455-b138-d337bd0977c3)
+
+# Running the Code
+1. Remember to edit the path of the file to be uploaded.
+2. Remember to edit the APP ID.
+3. Navigate to the folder where is located the file LoadFile.py
+4. Run this code in terminal: python LoadFile.py
+![image](https://github.com/devsergioraar/UploadOneDrive/assets/30870567/18e96988-e649-4b97-a10e-6b8171d19beb)
+5.Copy the show code and paste it on the WebBrowser that will popup:
+![image](https://github.com/devsergioraar/UploadOneDrive/assets/30870567/0345c630-89d5-4c75-a1e0-7b8b1bfa9778)
+7. Confirm the login to your account
+![image](https://github.com/devsergioraar/UploadOneDrive/assets/30870567/d31f25f9-e1a6-4f59-82ef-51713d762e32)
+8. Log in with your email and password.
+   ![image](https://github.com/devsergioraar/UploadOneDrive/assets/30870567/736fcb5c-c890-4828-8c2e-50dac49e13ed)
+9. Agree with the Permissions and Settings from the Application Prompt!
 
 
