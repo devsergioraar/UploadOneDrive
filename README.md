@@ -39,7 +39,7 @@ Remember to set the app as Daemon Type:
 4. Run this code in terminal: python LoadFile.py   
 ![image](https://github.com/devsergioraar/UploadOneDrive/assets/30870567/18e96988-e649-4b97-a10e-6b8171d19beb)
 
-5.Copy the show code and paste it on the WebBrowser that will popup:
+5. Copy the show code and paste it on the WebBrowser that will popup:
 ![image](https://github.com/devsergioraar/UploadOneDrive/assets/30870567/0345c630-89d5-4c75-a1e0-7b8b1bfa9778)
 
 7. Confirm the login to your account
