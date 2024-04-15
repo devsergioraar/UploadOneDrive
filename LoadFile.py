@@ -3,7 +3,7 @@ import requests
 import json
 from ms_graph import generate_access_token, GRAPH_API_ENDPOINT
 
-APP_ID='284e3dec-696b-4a19-9ea6-1145463774de'
+APP_ID='57531bfd-82b3-4dbd-a75a-bd0212115eb5'
 SCOPES=['Files.ReadWrite.All']
 
 access_token = generate_access_token(APP_ID, SCOPES)
