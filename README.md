@@ -6,7 +6,8 @@ pip install msal
 
 #On Azure
 Visit https://aka.ms/appregistrations, create and app like this:
-![image](https://github.com/devsergioraar/UploadOneDrive/assets/30870567/626f9fef-3e0f-4557-b583-be29e985e35c)
+![image](https://github.com/devsergioraar/UploadOneDrive/assets/30870567/9c7344e5-e1ab-445b-ae51-ea20b7c3241d)
+
 
 Remember to copy the Client ID and use it for editing the app variable "APP_ID".
 ![image](https://github.com/devsergioraar/UploadOneDrive/assets/30870567/dd07dbce-b30e-4ffa-8417-6edbafb2bcd2)
