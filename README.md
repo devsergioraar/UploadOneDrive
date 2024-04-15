@@ -15,3 +15,11 @@ Remember to copy the Client ID and use it for editing the app variable "APP_ID".
 Set the needed privilege "Files.ReadWrite.All" for this App.
 ![image](https://github.com/devsergioraar/UploadOneDrive/assets/30870567/f1644e6d-5c17-412d-a72f-5f0b81f0fc43)
 
+Set a Secret
+![image](https://github.com/devsergioraar/UploadOneDrive/assets/30870567/4e8d3aa2-9e2d-4e7f-8611-ff283a9fa35b)
+
+Set this settings
+![image](https://github.com/devsergioraar/UploadOneDrive/assets/30870567/c386b64e-23de-4acd-88d3-e627bee5a4c1)
+
+![image](https://github.com/devsergioraar/UploadOneDrive/assets/30870567/f31c3a19-a22a-4d2e-a79b-97cde2648283)
+
