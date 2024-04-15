@@ -29,4 +29,7 @@ Set this settings
 Set yourself as Owner
 ![image](https://github.com/devsergioraar/UploadOneDrive/assets/30870567/6e849955-aa99-4ab7-ab16-084afa7f4aec)
 
+Remember to set the app as Daemon Type:
+![image](https://github.com/devsergioraar/UploadOneDrive/assets/30870567/48129825-1ea0-4455-b138-d337bd0977c3)
+
 
